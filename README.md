@@ -2,7 +2,7 @@
 
 A premium, interactive cybersecurity portfolio built with a **Cyber-Defense Operations Center (SOC) Console** aesthetic. Designed for maximum visual impact, professional storytelling, and showcasing automated threat analysis and mobile security tools.
 
-Live Demo: [https://veera-portfolio.vercel.app](https://veera-portfolio.vercel.app) *(or your Vercel deployment link)*
+GitHub Repository: [https://github.com/kvr585/PORTFOLIO](https://github.com/kvr585/PORTFOLIO)
 
 ---
 
@@ -82,9 +82,9 @@ npm run start
 
 ## ⚡ Vercel Deployment
 
-Deploying to Vercel is fully automated and zero-config:
+Deploying to Vercel is fully automated:
 
-1.  Push your codebase to a private/public GitHub repository.
+1.  Push your codebase to your GitHub repository.
 2.  Connect your GitHub account to the [Vercel Dashboard](https://vercel.com/).
 3.  Click **Import Project** and select your portfolio repository.
 4.  Click **Deploy** — Vercel will automatically run Next.js build optimization and host your portfolio.
