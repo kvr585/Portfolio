@@ -357,7 +357,7 @@ function ProjectChapter({ project, index, onExpandScreenshot }: {
 
           <div className="mt-4 space-y-1 font-mono text-xs text-text-tertiary select-none">
             <p>{project.role}</p>
-            <p className="text-accent-emerald/80">{project.outcome}</p>
+            <p className="text-emerald-400 font-medium">{project.outcome}</p>
           </div>
           
           <div className="mt-4 flex flex-wrap gap-2 select-none">
