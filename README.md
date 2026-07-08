@@ -13,9 +13,9 @@ A production-grade cybersecurity portfolio showcasing specialized software engin
 ## 🌐 Live Portfolio
 
 Access the deployed portfolio and professional profiles directly:
-*   **Live Portfolio**: [https://kvr585.github.io](https://kvr585.github.io)
+*   **Live Portfolio**: [https://veerabhadhra.vercel.app](https://veerabhadhra.vercel.app)
 *   **GitHub Repository**: [https://github.com/kvr585/PORTFOLIO](https://github.com/kvr585/PORTFOLIO)
-*   **Professional Resume**: [https://kvr585.github.io/resume.pdf](https://kvr585.github.io/resume.pdf)
+*   **Professional Resume**: [https://veerabhadhra.vercel.app/resume.pdf](https://veerabhadhra.vercel.app/resume.pdf)
 *   **LinkedIn Profile**: [https://linkedin.com/in/VeeraBhadhra](https://linkedin.com/in/VeeraBhadhra)
 
 ---
@@ -93,7 +93,7 @@ The screenshots showing the interactive visual layout will be placed below once 
 *   **Frontend**: Next.js 15 (App Router), React 19, Tailwind CSS v4, Radix UI.
 *   **Languages**: Python, TypeScript, Smali Bytecode, SQL, HTML/CSS.
 *   **Animation**: Framer Motion, Lenis scroller.
-*   **Deployment**: GitHub, Vercel Production CDN.
+*   **Deployment**: Vercel Production CDN.
 *   **Developer Tools**: PyInstaller, Win32 API / user32.dll, Apktool, ReportLab.
 
 ---
@@ -165,7 +165,7 @@ Deployment to Vercel is fully automated:
 2.  Log in to the [Vercel Dashboard](https://vercel.com/) and click **Import Project**.
 3.  Select your `PORTFOLIO` repository.
 4.  Vercel automatically detects Next.js build parameters. Click **Deploy**.
-5.  Set up custom domains inside the Vercel Domain Settings panel.
+5.  Set up your custom domain `veerabhadhra.vercel.app` inside the Vercel Domain Settings panel.
 
 ---
 
@@ -188,7 +188,7 @@ This repository is distributed under the terms of the MIT License. See [LICENSE]
 
 ## ✉️ Contact
 
-*   **Website**: [https://kvr585.github.io](https://kvr585.github.io)
+*   **Website**: [https://veerabhadhra.vercel.app](https://veerabhadhra.vercel.app)
 *   **GitHub**: [https://github.com/kvr585](https://github.com/kvr585)
 *   **LinkedIn**: [https://linkedin.com/in/VeeraBhadhra](https://linkedin.com/in/VeeraBhadhra)
 *   **Email**: [2303031260126@paruluniversity.ac.in](mailto:2303031260126@paruluniversity.ac.in)

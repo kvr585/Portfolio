@@ -10,7 +10,7 @@ export const siteConfig = {
   availability: "Open to internships · Graduation 2027 · Remote & on-site",
   latestUpdate: "Added multithreaded DNS enumeration to Cyber-Recon-Toolkit.",
   responseTime: "Typically responds within 24 hours",
-  url: "https://kvr585.github.io",
+  url: "https://veerabhadhra.vercel.app",
   links: {
     github: "https://github.com/kvr585",
     linkedin: "https://linkedin.com/in/VeeraBhadhra",
